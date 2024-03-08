@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🪹🌴🪺Relaxing on REL BASE🪹🌴🪺"];
+const statusMessages = ["🪹🌴🪺Just Chillin' on the REL BASE🪹🌴🪺"];
 
 
 let currentIndex = 0;
